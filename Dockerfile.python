@@ -1,0 +1,6 @@
+FROM continuumio/miniconda
+MAINTAINER IPMI_Bern
+
+RUN pip install numpy SimpleITK
+
+ADD python/src /ivdm3seg
