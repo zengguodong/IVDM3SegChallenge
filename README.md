@@ -1,4 +1,4 @@
-#IVDM3Seg Challenge - MICCAI 2018 
+# IVDM3Seg Challenge - MICCAI 2018 
 ## https://ivdm3seg.weebly.com/
 
 Example docker containers for the IVD Segmentation Challenge. These example scripts simply threshold the /fat.nii.gz image at 20, but can be used to see how applications can be containerized and run within the challenge.
